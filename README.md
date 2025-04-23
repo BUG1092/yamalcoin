@@ -1,0 +1,2 @@
+# yamalcoin
+Website official YamalCoin
